@@ -1,14 +1,14 @@
-layout_spectrum: 0.1401680838316679
-typography_spectrum: 0.4827063966076821
+layout_spectrum: 0.3655449578072876
+typography_spectrum: 0.8944334294646978
 color:
-  brandStrength: 0.05705401115119457
-  lightness: 0.7914045790676028
-  saturation: 0.9053057259880006
-  rhythmicContrast: 0.8480352449696511
+  brandStrength: 0.5731898406520486
+  lightness: 0.7022456217091531
+  saturation: 0.5447122261393815
+  rhythmicContrast: 0.2829874905291945
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#FFFFFF'
+    - '#000000'
+    - '#006301'
+    - '#929292'
+    - '#585858'
 name: WOMB Group
